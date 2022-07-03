@@ -141,7 +141,7 @@ MonoBehaviour:
   rbBall: {fileID: 743462803318579621}
   randomForce: 0.5
   isStarted: 0
-  yVelocity: 14
+  yVelocity: 12
 --- !u!82 &-3450884865193079825
 AudioSource:
   m_ObjectHideFlags: 0
